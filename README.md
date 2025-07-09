@@ -1,6 +1,7 @@
 # EDA_Report_Python
 
 🔎 Electric Car Data EDA (Exploratory Data Analysis)
+
 This project provides a simple but powerful Python script for performing Exploratory Data Analysis (EDA) on any structured dataset — with a focus on electric car data. It includes automated summary reporting and visualizations to help understand the structure, quality, and relationships in your data.
 
 📌 Features
