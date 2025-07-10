@@ -28,6 +28,7 @@ Add your dataset
 file_path = r"your_dataset.csv"  # Replace with the path to your dataset
 
 📊 Output
+
 All plots are saved in the plots/ directory:
 
 histograms.png — Distribution of all numeric features
