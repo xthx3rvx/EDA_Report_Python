@@ -5,6 +5,7 @@
 This project provides a simple but powerful Python script for performing Exploratory Data Analysis (EDA) on any structured dataset — with a focus on electric car data. It includes automated summary reporting and visualizations to help understand the structure, quality, and relationships in your data.
 
 📌 Features
+
 📋 Loads and inspects data using pandas
 
 ✅ Prints an EDA report to the console:
